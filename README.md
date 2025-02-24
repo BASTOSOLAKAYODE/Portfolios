@@ -43,7 +43,7 @@ This project focuses on predicting customer booking behavior for British Airways
 ---
 
 ## Wine Quality Analysis  
-[GitHub Repository](https://github.com/BASTOSOLAKAYODE/Wine-Quality-UCI-Dataset)
+[GitHub Repository](https://github.com/BASTOSOLAKAYODE/Wine-Quality-UCI-Dataset-)
 
 ### Project Background
 This project investigates the factors influencing the quality of Vinho Verde wine, a Portuguese wine known for its youthful characteristics. The analysis focuses on red vs. white wine quality, alcohol content, sweetness, and acidity levels.
